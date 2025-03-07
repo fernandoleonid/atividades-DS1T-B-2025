@@ -12,7 +12,7 @@ Totas as atividades devem ter:
 * [ ] Repositório individual
 * [ ] README.md
 * [ ] Github pages habilitado
-* [ ] Criar um issues para entrega
+* [ ] Crie uma Issue para a entrega
 
 
 ### Professor
