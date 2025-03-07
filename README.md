@@ -6,6 +6,7 @@ Repositório para atividades realizadas durante as aulas de linguagem de program
 2.  Galeria (3x3)
 3.  Galeria (flex)
 4.  Galeira (Grid)
+5.  [Coca-Cola](05-coca-cola/coca-cola.md)
 
 ## Requisitos das atividades
 Totas as atividades devem ter:
