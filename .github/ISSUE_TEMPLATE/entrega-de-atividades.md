@@ -1,6 +1,6 @@
 ---
-name: ENTREGA DE ATIVIDADES
-about: ''
+name: Entrega de atividades
+about: Describe this issue template's purpose here.
 title: ''
 labels: ''
 assignees: ''
@@ -8,7 +8,6 @@ assignees: ''
 ---
 
 Link do repositório:
-
 
 
 Comentários:
