@@ -8,6 +8,7 @@ Repositório para atividades realizadas durante as aulas de linguagem de program
 4.  Galeira (Grid)
 5.  [Coca-Cola](05-coca-cola/coca-cola.md)
 6.  [Figma](./06-figma/README.md)
+7.  [Tony Pizzaria](./07-tony-pizzaria/)
 
 ## Requisitos das atividades
 Totas as atividades devem ter:
