@@ -10,6 +10,7 @@ Repositório para atividades realizadas durante as aulas de linguagem de program
 6.  [Figma](./06-figma/README.md)
 7.  [Tony Pizzaria](./07-tony-pizzaria/)
 8.  Pikachu
+9.  [Framework CSS](https://www.figma.com/design/of8zx8bMHyU8Rx4QSIneVt/SENAI-1.27?node-id=0-1&t=gg7T3cvJw4ChlAql-1)
 
 ## Requisitos das atividades
 Totas as atividades devem ter:
